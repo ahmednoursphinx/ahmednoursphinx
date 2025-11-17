@@ -8,11 +8,6 @@
 - Implementing constexpr evaluation support for SIMD operations
 - Learning LLVM IR optimization and LLDB internals
 
-### 🚀 Recent Contributions
-
-- 6+ merged PRs to LLVM Project
-- Specializing in: x86 backend, AVX-512, constexpr evaluation, compiler optimization
-
 ### 💼 Experience
 
 - 10 years building production iOS applications
