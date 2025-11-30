@@ -4,7 +4,7 @@
 
 ### 🔧 Currently Working On
 
-- Contributing to **LLVM/Clang** with focus on x86 backend and AVX-512 intrinsics
+- Contributing to **LLVM/Clang** with focus on x86 backend 
 - Implementing constexpr evaluation support for SIMD operations
 - Learning LLVM IR optimization and LLDB internals
 
