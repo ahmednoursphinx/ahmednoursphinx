@@ -14,11 +14,6 @@
 - Deep understanding of performance optimization and systems programming
 - Now building the tooling that makes development better
 
-### 🎯 Goals
-
-- Become a proficient compiler engineer
-- Contribute to LLVM, Clang, and LLDB
-- Build tools that improve developer productivity
 
 ### 📫 Let's Connect
 
